@@ -142,15 +142,7 @@ claude-skill          (X)
 
 ---
 
-## 8. 배포 방식
-
-1. 스킬 폴더 전체를 **zip 파일**로 압축
-2. Claude.ai 접속
-3. **설정(Settings) → 기능(Capabilities) → Skills** 에서 zip 파일 업로드
-
----
-
-## 9. 호환성
+## 8. 호환성
 
 - 스킬은 **오픈 스탠다드(Open Standard)** 기반
 - Claude 외에도 **Codex**, **Gemini CLI**, **Claude Code**, **Open Code** 등 다른 AI 환경에서도 사용 가능
@@ -159,7 +151,7 @@ claude-skill          (X)
 
 ---
 
-## 10. 언제 스킬을 만들어야 할까?
+## 9. 언제 스킬을 만들어야 할까?
 
 - 동일한 프롬프트를 여러 대화에서 반복 입력하고 있을 때
 - 특정 분석 워크플로우를 매주/매번 반복할 때
